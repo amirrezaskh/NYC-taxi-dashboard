@@ -1,0 +1,15 @@
+trips,DropOffLocationID,LocationID_x,pickup_zone,dropoff_zone
+7500720,236,237,Upper East Side South,Upper East Side North
+6551418,237,236,Upper East Side North,Upper East Side South
+6021031,236,236,Upper East Side North,Upper East Side North
+5937898,237,237,Upper East Side South,Upper East Side South
+3665298,161,237,Upper East Side South,Midtown Center
+3606328,162,237,Upper East Side South,Midtown East
+3563737,142,239,Upper West Side South,Lincoln Square East
+3476681,238,239,Upper West Side South,Upper West Side North
+3333631,239,142,Lincoln Square East,Upper West Side South
+3140657,237,161,Midtown Center,Upper East Side South
+3103058,161,186,Penn Station/Madison Sq West,Midtown Center
+3083937,230,186,Penn Station/Madison Sq West,Times Sq/Theatre District
+3031780,239,238,Upper West Side North,Upper West Side South
+3013591,236,141,Lenox Hill West,Upper East Side North

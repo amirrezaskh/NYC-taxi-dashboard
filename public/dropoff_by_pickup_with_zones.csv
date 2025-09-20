@@ -1,0 +1,10 @@
+trips,DropOffLocationID,LocationID_x,pickup_zone,dropoff_zone
+7500720,236,237,Upper East Side South,Upper East Side North
+6551418,237,236,Upper East Side North,Upper East Side South
+6021031,236,236,Upper East Side North,Upper East Side North
+5937898,237,237,Upper East Side South,Upper East Side South
+3665298,161,237,Upper East Side South,Midtown Center
+3606328,162,237,Upper East Side South,Midtown East
+3563737,142,239,Upper West Side South,Lincoln Square East
+3476681,238,239,Upper West Side South,Upper West Side North
+3333631,239,142,Lincoln Square East,Upper West Side South
