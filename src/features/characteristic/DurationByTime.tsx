@@ -19,7 +19,7 @@ export default function DurationByTime() {
   const theme = useTheme();
 
   useEffect(() => {
-    Papa.parse("/duration_by_time_of_day.csv", {
+    Papa.parse("/data/duration_by_time_of_day.csv", {
       download: true,
       header: true,
       dynamicTyping: true,

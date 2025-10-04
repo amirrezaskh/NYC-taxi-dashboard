@@ -21,7 +21,7 @@ export default function TaxiSankey() {
 
   useEffect(() => {
     // 👇 replace with your actual CSV file path (public folder or URL)
-    Papa.parse("/dropoff_by_pickup_with_zones_20.csv", {
+    Papa.parse("/data/dropoff_by_pickup_with_zones_20.csv", {
       download: true,
       header: true,
       dynamicTyping: true,

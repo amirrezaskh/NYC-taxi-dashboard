@@ -143,7 +143,7 @@ export default function NYCMap({ metrics, palette }: Props) {
 
   useEffect(() => {
     console.log("Fetching GeoJSON data...");
-    fetch("/merged.geojson")
+    fetch("/data/merged.geojson")
       .then((res) => {
         console.log("Response status:", res.status);
         if (!res.ok) {

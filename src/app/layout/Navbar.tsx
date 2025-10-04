@@ -106,6 +106,15 @@ export default function Navbar() {
               </Button>
               <Button
                 component={NavLink}
+                to="/predict"
+                variant="text"
+                color="info"
+                size="small"
+              >
+                Predict
+              </Button>
+              <Button
+                component={NavLink}
                 to="/about"
                 variant="text"
                 color="info"
@@ -121,7 +130,6 @@ export default function Navbar() {
             </Box>
           </Box>
           <Box sx={{ display: { xs: "flex", md: "none" }, gap: 1 }}>
-            <ColorModeIconDropdown size="medium" />
             <IconButton aria-label="Menu button" onClick={toggleDrawer(true)}>
               <MenuIcon />
             </IconButton>
@@ -155,6 +163,17 @@ export default function Navbar() {
                     size="small"
                   >
                     Dashboard
+                  </Button>
+                </MenuItem>
+                <MenuItem>
+                  <Button
+                    component={NavLink}
+                    to="/predict"
+                    variant="text"
+                    color="info"
+                    size="small"
+                  >
+                    Predict
                   </Button>
                 </MenuItem>
                 <MenuItem>

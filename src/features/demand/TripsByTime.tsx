@@ -19,7 +19,7 @@ export default function TripsByTime() {
   const theme = useTheme();
 
   useEffect(() => {
-    Papa.parse("/trips_by_time_of_day.csv", {
+    Papa.parse("/data/trips_by_time_of_day.csv", {
       download: true,
       header: true,
       dynamicTyping: true,
