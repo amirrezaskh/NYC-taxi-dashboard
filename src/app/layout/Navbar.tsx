@@ -72,9 +72,16 @@ export default function Navbar() {
                 cursor: "pointer",
                 textDecoration: "none",
                 flex: 1,
+                gap: 1
               }}
             >
-              <LocalTaxi color="primary" sx={{ fontSize: 40 }} />
+              <Box 
+                component="img"
+                sx={{
+                  height: 40
+                }}
+                src="/taxi.png"
+              />
               <Typography
                 variant="h6"
                 color="textPrimary"
