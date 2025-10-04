@@ -10,7 +10,7 @@ A comprehensive end-to-end data analytics platform that processes NYC taxi trip 
 
 ## Live Demo
 
-🚀 **[View Live Dashboard](https://your-demo-url.com)** (Replace with your deployed URL)
+🚀 **[View Live Dashboard](https://www.nyc-taxi-dashboard.com)**
 
 ## 🌟 Key Features
 
