@@ -1,5 +1,4 @@
 import * as React from "react";
-import { LocalTaxi } from "@mui/icons-material";
 import { styled, alpha } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import AppBar from "@mui/material/AppBar";
